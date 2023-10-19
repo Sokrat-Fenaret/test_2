@@ -1,9 +1,0 @@
-@media(max-width: 1000px) {
-.Address {display: none;}
-.map_small {display: block;}
-.home {display: none;}}
-
-@media(max-width: 619px) {
-    .map_small {display: none;}
-    .Address {display: block;}
-    .home {display: block;}}
