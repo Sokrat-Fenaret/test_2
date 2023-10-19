@@ -1,0 +1,25 @@
+
+@media(max-width: 720px) {
+
+   .container__blocks {
+      display: block;
+   }
+
+   .container__blocks-left {
+      display: none;
+   }
+   .container__blocks-right {
+      width: 95%;
+      margin: 0 auto;
+   }
+   .first_screen {
+      background: none;
+      background-size: cover;
+      background-color: #c5c5c5;
+   }
+   .about,
+   .services,
+   .contacts {
+      color: #102e44;
+   }
+}
